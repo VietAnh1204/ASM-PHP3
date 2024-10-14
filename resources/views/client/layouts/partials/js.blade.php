@@ -1,0 +1,16 @@
+<script src="/client/js/jquery-3.2.1.min.js"></script>
+<script src="/client/js/bootstrap.min.js"></script>
+<script src="/client/js/jquery.sticky.min.js"></script>
+<script src="/client/js/jquery.hoverIntent.min.js"></script>
+<script src="/client/js/jquery.marquee.min.js"></script>
+<script src="/client/js/jquery.validate.min.js"></script>
+<script src="/client/js/isotope.min.js"></script>
+<script src="/client/js/resizesensor.min.js"></script>
+<script src="/client/js/theia-sticky-sidebar.min.js"></script>
+<script src="/client/js/jquery.zoom.min.js"></script>
+<script src="/client/js/jquery.barrating.min.js"></script>
+<script src="/client/js/jquery.countdown.min.js"></script>
+<script src="/client/js/retina.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBK9f7sXWmqQ1E-ufRXV3VpXOn_ifKsDuc"></script>
+<script src="/client/js/color-switcher.min.js"></script>
+<script src="/client/js/main.js"></script>
